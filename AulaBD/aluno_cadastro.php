@@ -29,7 +29,7 @@
         </p>
 
         <p>
-            <input type="submit" name="enviar" value="Cadastrar">
+            <input type="submit" class="enviar" name="enviar" value="Cadastrar">
         </p>
     </form>
 </div>
