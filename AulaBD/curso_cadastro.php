@@ -9,7 +9,7 @@
 <body>
     <h1>Cadastro de Cursos </h1>
 
-    <form>
+    <form name="Enviar" method="POST" action="curso_cadastro.php">
         <p>Informe o nome do curso:</p>
         <input type="text" name="curso">
 

@@ -12,7 +12,7 @@
 
    <div class="conteudo">
     <h3>Cadastro de Alunos</h3>
-    <form action="#" method="POST">
+    <form action="aluno_cadastro1.php" method="post">
         <p>
             Digite o nome do aluno <br>
             <input type="text" name="nome">
