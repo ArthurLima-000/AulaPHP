@@ -12,10 +12,10 @@
         </div>
 
         <div>
-            <a href="aluno_cadastro.php">Cadastrar</a>
-            <a href="aluno_consulta.php">Consultar</a>
-            <a href="professor_cadastro.php">Prof. Cadastrar</a>
-            <a href="professor_consulta.php">Prof. Consultar</a>
+            <a href="aluno_cadastro.php">Cadastrar Aluno</a>
+            <a href="aluno_consulta.php">Consultar Aluno</a>
+            <a href="curso_cadastro.php">Cadastrar Curso</a>
+            <a href="curso_consulta.php">Consulta Curso</a>
         </div>
     </div>
     
